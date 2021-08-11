@@ -1,5 +1,5 @@
 {
-  "FilePath": "c:\\Users\\holli\\Desktop\\CodingDojo\\Entity\\Login\\Login.csproj",
+  "FilePath": "c:\\Users\\holli\\Desktop\\Login\\Login.csproj",
   "Configuration": {
     "ConfigurationName": "MVC-3.0",
     "LanguageVersion": "3.0",
@@ -14402,23 +14402,23 @@
   "RootNamespace": "Login",
   "Documents": [
     {
-      "FilePath": "c:\\Users\\holli\\Desktop\\CodingDojo\\Entity\\Login\\Views\\Home\\Register.cshtml",
-      "TargetPath": "Views\\Home\\Register.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\holli\\Desktop\\CodingDojo\\Entity\\Login\\Views\\Home\\Success.cshtml",
-      "TargetPath": "Views\\Home\\Success.cshtml",
-      "FileKind": "mvc"
-    },
-    {
-      "FilePath": "c:\\Users\\holli\\Desktop\\CodingDojo\\Entity\\Login\\Views\\Home\\Login.cshtml",
+      "FilePath": "c:\\Users\\holli\\Desktop\\Login\\Views\\Home\\Login.cshtml",
       "TargetPath": "Views\\Home\\Login.cshtml",
       "FileKind": "mvc"
     },
     {
-      "FilePath": "c:\\Users\\holli\\Desktop\\CodingDojo\\Entity\\Login\\Views\\_ViewImports.cshtml",
+      "FilePath": "c:\\Users\\holli\\Desktop\\Login\\Views\\_ViewImports.cshtml",
       "TargetPath": "Views\\_ViewImports.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\holli\\Desktop\\Login\\Views\\Home\\Success.cshtml",
+      "TargetPath": "Views\\Home\\Success.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\holli\\Desktop\\Login\\Views\\Home\\Register.cshtml",
+      "TargetPath": "Views\\Home\\Register.cshtml",
       "FileKind": "mvc"
     }
   ],

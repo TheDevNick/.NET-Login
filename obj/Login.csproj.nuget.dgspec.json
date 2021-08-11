@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\holli\\Desktop\\CodingDojo\\Entity\\Login\\Login.csproj": {}
+    "C:\\Users\\holli\\Desktop\\Login\\Login.csproj": {}
   },
   "projects": {
-    "C:\\Users\\holli\\Desktop\\CodingDojo\\Entity\\Login\\Login.csproj": {
+    "C:\\Users\\holli\\Desktop\\Login\\Login.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\holli\\Desktop\\CodingDojo\\Entity\\Login\\Login.csproj",
+        "projectUniqueName": "C:\\Users\\holli\\Desktop\\Login\\Login.csproj",
         "projectName": "Login",
-        "projectPath": "C:\\Users\\holli\\Desktop\\CodingDojo\\Entity\\Login\\Login.csproj",
+        "projectPath": "C:\\Users\\holli\\Desktop\\Login\\Login.csproj",
         "packagesPath": "C:\\Users\\holli\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\holli\\Desktop\\CodingDojo\\Entity\\Login\\obj\\",
+        "outputPath": "C:\\Users\\holli\\Desktop\\Login\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\holli\\AppData\\Roaming\\NuGet\\NuGet.Config"
