@@ -1,0 +1,48 @@
+@using Login.Models;
+@model UserRegister
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    @* <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css"> *@
+    <title>Document</title>
+</head>
+<body>
+    <h1>Register</h1>
+    <a href="/login">Login</a>
+     <form asp-action="Create" asp-controller= "Home" method="POST">
+    <div class="form-group">
+        <span asp-validation-for="FirstName"></span>
+        <label asp-for="FirstName">First Name</label>
+        <input type="text" asp-for="FirstName">
+    </div>
+    <div class="form-group">
+        <span asp-validation-for="LastName"></span>
+        <label asp-for="LastName">Last Name</label>
+        <input type="text" asp-for="LastName">
+    </div>
+    <div class="form-group">
+        <span asp-validation-for="RegEmail"></span>
+        <label asp-for="RegEmail">Email</label>
+        <input type="RegEmail" asp-for="RegEmail">
+    </div>
+
+    <div class="form-group">
+        <span asp-validation-for="RegPassword"></span>
+        <label asp-for="RegPassword">Password</label>
+        <input type="password" asp-for="RegPassword">
+    </div>
+
+    <div class="form-group">
+        <span asp-validation-for="Confirm"></span>
+        <label asp-for="Confirm"> Confirm Password</label>
+        <input type="password" asp-for="Confirm">
+    </div>
+
+
+    <input type="submit" value="Sign Up">
+</form>
+</body>
+</html>
